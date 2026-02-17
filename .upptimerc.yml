@@ -15,7 +15,7 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   # cname: demo.upptime.js.org
   baseUrl: /cocredo-status
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  logoUrl: /cocredo-status/assets/cclogo.png
   name: CoCredo Service Status
   introTitle: "Welcome to the CoCredo service status page."
   introMessage: Here you can view the current status of our services.
