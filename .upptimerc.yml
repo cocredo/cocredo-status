@@ -22,8 +22,11 @@ status-website:
   navbar:
     - title: Status
       href: /cocredo-status
-    - title: GitHub
+    - title: CoCredo
       href: https://www.cocredo.co.uk/
-
+      
+i18n:
+  footer: This page is provided by [CoCredo](https://www.cocredo.co.uk)
+  
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
