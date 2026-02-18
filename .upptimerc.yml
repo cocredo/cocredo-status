@@ -14,14 +14,14 @@ sites:
     slug: cocredoapi
   - name: CoCredo XML Service
     url: https://xmlgw.cocredo.com
-    cocredo: cocredoxml
+    slug: cocredoxml
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   # cname: demo.upptime.js.org
   baseUrl: /cocredo-status
-  logoUrl: /cocredo-status/assets/cclogo.png
+  logoUrl: https://ccassets.cocredo.co.uk/brand-cc/logo22WhiteSm.png
   name: CoCredo Service Status
   introTitle: "Welcome to the CoCredo service status page."
   introMessage: Here you can view the current status of our services.
