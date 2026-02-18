@@ -10,10 +10,10 @@ sites:
     url: https://www.quickcreditreports.co.uk
     slug: qcr
   - name: CoCredo API
-    url: https://apigw.cocredo.com
+    url: https://apigw.cocredo.com/v1/hello
     slug: cocredoapi
   - name: CoCredo XML Service
-    url: https://xmlgw.cocredo.com
+    url: https://xmlgw.cocredo.co.uk/v2-0/docs/
     slug: cocredoxml
 
 status-website:
