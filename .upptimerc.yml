@@ -30,7 +30,8 @@ status-website:
       href: /cocredo-status
     - title: CoCredo
       href: https://www.cocredo.co.uk/
-      
+  theme: ocean
+  
 i18n:
   footer: This page is provided by [CoCredo](https://www.cocredo.co.uk)
   
