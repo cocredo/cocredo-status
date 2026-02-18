@@ -9,6 +9,8 @@ sites:
     url: https://www.quickcreditreports.co.uk
   - name: CoCredo API
     url: https://apigw.cocredo.com
+  - name: CoCredo XML Service
+    url: https://xmlgw.cocredo.com
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
