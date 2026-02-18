@@ -34,6 +34,7 @@ status-website:
   
 i18n:
   footer: This page is provided by [CoCredo](https://www.cocredo.co.uk)
+  locale: en-GB
   
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
