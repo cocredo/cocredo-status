@@ -4,18 +4,20 @@
     "url": "https://www.cocredo.co.uk",
     "icon": "https://icons.duckduckgo.com/ip3/www.cocredo.co.uk.ico",
     "slug": "cocredo",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 2064,
     "timeDay": 1700,
     "timeWeek": 2026,
     "timeMonth": 2064,
     "timeYear": 2064,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-02-28": 1
+    }
   },
   {
     "name": "Quick Credit Reports",
@@ -40,18 +42,19 @@
     "url": "https://apigw.cocredo.com/v1/hello",
     "icon": "https://icons.duckduckgo.com/ip3/apigw.cocredo.com.ico",
     "slug": "cocredoapi",
-    "status": "up",
-    "uptime": "99.33%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.33%",
-    "uptimeYear": "99.33%",
+    "status": "down",
+    "uptime": "99.35%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.35%",
+    "uptimeYear": "99.35%",
     "time": 1745,
     "timeDay": 1476,
     "timeWeek": 1655,
     "timeMonth": 1745,
     "timeYear": 1745,
     "dailyMinutesDown": {
+      "2026-02-28": 1,
       "2026-02-19": 94
     }
   },
@@ -60,18 +63,19 @@
     "url": "https://xmlgw.cocredo.co.uk/v2-0/docs/",
     "icon": "https://icons.duckduckgo.com/ip3/xmlgw.cocredo.co.uk.ico",
     "slug": "cocredoxml",
-    "status": "up",
-    "uptime": "99.33%",
+    "status": "down",
+    "uptime": "99.36%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.33%",
-    "uptimeYear": "99.33%",
+    "uptimeMonth": "99.36%",
+    "uptimeYear": "99.36%",
     "time": 2016,
     "timeDay": 2099,
     "timeWeek": 1980,
     "timeMonth": 2016,
     "timeYear": 2016,
     "dailyMinutesDown": {
+      "2026-02-28": 0,
       "2026-02-19": 94
     }
   }
