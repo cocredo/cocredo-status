@@ -4,10 +4,10 @@
     "url": "https://www.cocredo.co.uk",
     "icon": "https://icons.duckduckgo.com/ip3/www.cocredo.co.uk.ico",
     "slug": "cocredo",
-    "status": "up",
+    "status": "down",
     "uptime": "99.64%",
-    "uptimeDay": "96.83%",
-    "uptimeWeek": "99.55%",
+    "uptimeDay": "96.75%",
+    "uptimeWeek": "99.54%",
     "uptimeMonth": "99.64%",
     "uptimeYear": "99.64%",
     "time": 2060,
@@ -16,6 +16,7 @@
     "timeMonth": 2060,
     "timeYear": 2060,
     "dailyMinutesDown": {
+      "2026-03-09": 1,
       "2026-03-08": 46,
       "2026-03-01": 51
     }
@@ -25,18 +26,19 @@
     "url": "https://www.quickcreditreports.co.uk",
     "icon": "https://icons.duckduckgo.com/ip3/www.quickcreditreports.co.uk.ico",
     "slug": "qcr",
-    "status": "up",
+    "status": "down",
     "uptime": "99.60%",
-    "uptimeDay": "92.55%",
-    "uptimeWeek": "98.94%",
+    "uptimeDay": "92.47%",
+    "uptimeWeek": "98.92%",
     "uptimeMonth": "99.60%",
     "uptimeYear": "99.60%",
-    "time": 1779,
-    "timeDay": 1690,
-    "timeWeek": 1746,
-    "timeMonth": 1779,
-    "timeYear": 1779,
+    "time": 1775,
+    "timeDay": 1682,
+    "timeWeek": 1737,
+    "timeMonth": 1775,
+    "timeYear": 1775,
     "dailyMinutesDown": {
+      "2026-03-09": 1,
       "2026-03-08": 107
     }
   },
@@ -45,10 +47,10 @@
     "url": "https://apigw.cocredo.com/v1/hello",
     "icon": "https://icons.duckduckgo.com/ip3/apigw.cocredo.com.ico",
     "slug": "cocredoapi",
-    "status": "up",
+    "status": "down",
     "uptime": "99.65%",
-    "uptimeDay": "96.91%",
-    "uptimeWeek": "99.56%",
+    "uptimeDay": "96.87%",
+    "uptimeWeek": "99.55%",
     "uptimeMonth": "99.65%",
     "uptimeYear": "99.65%",
     "time": 1743,
@@ -57,6 +59,7 @@
     "timeMonth": 1743,
     "timeYear": 1743,
     "dailyMinutesDown": {
+      "2026-03-09": 1,
       "2026-03-08": 44,
       "2026-03-01": 51
     }
@@ -66,7 +69,7 @@
     "url": "https://xmlgw.cocredo.co.uk/v2-0/docs/",
     "icon": "https://icons.duckduckgo.com/ip3/xmlgw.cocredo.co.uk.ico",
     "slug": "cocredoxml",
-    "status": "up",
+    "status": "down",
     "uptime": "99.65%",
     "uptimeDay": "96.98%",
     "uptimeWeek": "99.57%",
@@ -78,6 +81,7 @@
     "timeMonth": 2002,
     "timeYear": 2002,
     "dailyMinutesDown": {
+      "2026-03-09": 0,
       "2026-03-08": 44,
       "2026-03-01": 50
     }
