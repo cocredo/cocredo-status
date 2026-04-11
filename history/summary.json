@@ -4,11 +4,11 @@
     "url": "https://www.cocredo.co.uk",
     "icon": "https://icons.duckduckgo.com/ip3/www.cocredo.co.uk.ico",
     "slug": "cocredo",
-    "status": "up",
+    "status": "down",
     "uptime": "99.85%",
-    "uptimeDay": "95.91%",
-    "uptimeWeek": "99.42%",
-    "uptimeMonth": "99.87%",
+    "uptimeDay": "95.83%",
+    "uptimeWeek": "99.40%",
+    "uptimeMonth": "99.86%",
     "uptimeYear": "99.85%",
     "time": 2085,
     "timeDay": 1915,
@@ -16,6 +16,7 @@
     "timeMonth": 2070,
     "timeYear": 2085,
     "dailyMinutesDown": {
+      "2026-04-11": 1,
       "2026-04-10": 59,
       "2026-03-01": 51
     }
@@ -34,7 +35,7 @@
     "time": 1775,
     "timeDay": 1877,
     "timeWeek": 1755,
-    "timeMonth": 1759,
+    "timeMonth": 1764,
     "timeYear": 1775,
     "dailyMinutesDown": {}
   },
@@ -43,10 +44,10 @@
     "url": "https://apigw.cocredo.com/v1/hello",
     "icon": "https://icons.duckduckgo.com/ip3/apigw.cocredo.com.ico",
     "slug": "cocredoapi",
-    "status": "up",
+    "status": "down",
     "uptime": "99.85%",
-    "uptimeDay": "95.94%",
-    "uptimeWeek": "99.42%",
+    "uptimeDay": "95.90%",
+    "uptimeWeek": "99.41%",
     "uptimeMonth": "99.87%",
     "uptimeYear": "99.85%",
     "time": 1801,
@@ -55,6 +56,7 @@
     "timeMonth": 1861,
     "timeYear": 1801,
     "dailyMinutesDown": {
+      "2026-04-11": 1,
       "2026-04-10": 58,
       "2026-03-01": 51
     }
@@ -64,18 +66,19 @@
     "url": "https://xmlgw.cocredo.co.uk/v2-0/docs/",
     "icon": "https://icons.duckduckgo.com/ip3/xmlgw.cocredo.co.uk.ico",
     "slug": "cocredoxml",
-    "status": "up",
-    "uptime": "99.85%",
-    "uptimeDay": "95.97%",
+    "status": "down",
+    "uptime": "99.86%",
+    "uptimeDay": "95.96%",
     "uptimeWeek": "99.42%",
     "uptimeMonth": "99.87%",
-    "uptimeYear": "99.85%",
+    "uptimeYear": "99.86%",
     "time": 1975,
     "timeDay": 1894,
     "timeWeek": 1936,
     "timeMonth": 1941,
     "timeYear": 1975,
     "dailyMinutesDown": {
+      "2026-04-11": 0,
       "2026-04-10": 58,
       "2026-03-01": 50
     }
