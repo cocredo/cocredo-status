@@ -26,21 +26,22 @@
     "url": "https://www.quickcreditreports.co.uk",
     "icon": "https://icons.duckduckgo.com/ip3/www.quickcreditreports.co.uk.ico",
     "slug": "qcr",
-    "status": "up",
+    "status": "down",
     "uptime": "99.45%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.83%",
     "uptimeYear": "99.45%",
-    "time": 1745,
-    "timeDay": 1681,
-    "timeWeek": 1723,
-    "timeMonth": 1677,
-    "timeYear": 1745,
+    "time": 1744,
+    "timeDay": 1635,
+    "timeWeek": 1706,
+    "timeMonth": 1674,
+    "timeYear": 1744,
     "dailyMinutesDown": {
       "2026-06-05": 518,
       "2026-06-04": 513,
-      "2026-06-28": 74
+      "2026-06-28": 74,
+      "2026-07-07": 0
     }
   },
   {
