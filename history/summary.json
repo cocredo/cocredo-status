@@ -5,11 +5,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.cocredo.co.uk.ico",
     "slug": "cocredo",
     "status": "down",
-    "uptime": "99.60%",
-    "uptimeDay": "87.08%",
-    "uptimeWeek": "98.15%",
-    "uptimeMonth": "99.58%",
-    "uptimeYear": "99.60%",
+    "uptime": "99.56%",
+    "uptimeDay": "77.62%",
+    "uptimeWeek": "96.80%",
+    "uptimeMonth": "99.26%",
+    "uptimeYear": "99.56%",
     "time": 2037,
     "timeDay": 1850,
     "timeWeek": 1966,
@@ -20,7 +20,7 @@
       "2026-06-05": 518,
       "2026-06-04": 513,
       "2026-09-27": 176,
-      "2026-09-28": 10
+      "2026-09-28": 146
     }
   },
   {
@@ -34,11 +34,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.63%",
-    "time": 1724,
-    "timeDay": 0,
-    "timeWeek": 1800,
-    "timeMonth": 1770,
-    "timeYear": 1724,
+    "time": 1725,
+    "timeDay": 1939,
+    "timeWeek": 1819,
+    "timeMonth": 1775,
+    "timeYear": 1725,
     "dailyMinutesDown": {
       "2026-06-05": 518,
       "2026-06-04": 513,
@@ -52,11 +52,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/apigw.cocredo.com.ico",
     "slug": "cocredoapi",
     "status": "down",
-    "uptime": "99.61%",
-    "uptimeDay": "87.75%",
-    "uptimeWeek": "98.25%",
-    "uptimeMonth": "99.60%",
-    "uptimeYear": "99.61%",
+    "uptime": "99.56%",
+    "uptimeDay": "78.29%",
+    "uptimeWeek": "96.90%",
+    "uptimeMonth": "99.29%",
+    "uptimeYear": "99.56%",
     "time": 1780,
     "timeDay": 1654,
     "timeWeek": 1917,
@@ -67,7 +67,7 @@
       "2026-06-05": 518,
       "2026-06-04": 513,
       "2026-09-27": 171,
-      "2026-09-28": 5
+      "2026-09-28": 141
     }
   },
   {
@@ -76,11 +76,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/xmlgw.cocredo.co.uk.ico",
     "slug": "cocredoxml",
     "status": "down",
-    "uptime": "99.61%",
-    "uptimeDay": "88.41%",
-    "uptimeWeek": "98.34%",
-    "uptimeMonth": "99.62%",
-    "uptimeYear": "99.61%",
+    "uptime": "99.57%",
+    "uptimeDay": "78.96%",
+    "uptimeWeek": "96.99%",
+    "uptimeMonth": "99.31%",
+    "uptimeYear": "99.57%",
     "time": 1938,
     "timeDay": 2302,
     "timeWeek": 1995,
@@ -91,7 +91,7 @@
       "2026-06-05": 518,
       "2026-06-04": 513,
       "2026-09-27": 167,
-      "2026-09-28": 0
+      "2026-09-28": 136
     }
   }
 ]
