@@ -5,11 +5,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.cocredo.co.uk.ico",
     "slug": "cocredo",
     "status": "down",
-    "uptime": "99.51%",
+    "uptime": "99.48%",
     "uptimeDay": "85.36%",
-    "uptimeWeek": "95.11%",
-    "uptimeMonth": "98.87%",
-    "uptimeYear": "99.51%",
+    "uptimeWeek": "94.34%",
+    "uptimeMonth": "98.70%",
+    "uptimeYear": "99.48%",
     "time": 2036,
     "timeDay": 1858,
     "timeWeek": 1965,
@@ -21,7 +21,7 @@
       "2026-06-04": 513,
       "2026-09-27": 176,
       "2026-09-28": 307,
-      "2026-09-29": 10
+      "2026-09-29": 87
     }
   },
   {
@@ -53,11 +53,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/apigw.cocredo.com.ico",
     "slug": "cocredoapi",
     "status": "down",
-    "uptime": "99.51%",
+    "uptime": "99.49%",
     "uptimeDay": "85.69%",
-    "uptimeWeek": "95.25%",
-    "uptimeMonth": "98.91%",
-    "uptimeYear": "99.51%",
+    "uptimeWeek": "94.48%",
+    "uptimeMonth": "98.73%",
+    "uptimeYear": "99.49%",
     "time": 1783,
     "timeDay": 2668,
     "timeWeek": 2016,
@@ -69,7 +69,7 @@
       "2026-06-04": 513,
       "2026-09-27": 171,
       "2026-09-28": 302,
-      "2026-09-29": 5
+      "2026-09-29": 82
     }
   },
   {
@@ -78,11 +78,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/xmlgw.cocredo.co.uk.ico",
     "slug": "cocredoxml",
     "status": "down",
-    "uptime": "99.52%",
+    "uptime": "99.49%",
     "uptimeDay": "86.02%",
-    "uptimeWeek": "95.39%",
-    "uptimeMonth": "98.94%",
-    "uptimeYear": "99.52%",
+    "uptimeWeek": "94.63%",
+    "uptimeMonth": "98.76%",
+    "uptimeYear": "99.49%",
     "time": 1937,
     "timeDay": 1892,
     "timeWeek": 1999,
@@ -94,7 +94,7 @@
       "2026-06-04": 513,
       "2026-09-27": 167,
       "2026-09-28": 298,
-      "2026-09-29": 0
+      "2026-09-29": 77
     }
   }
 ]
