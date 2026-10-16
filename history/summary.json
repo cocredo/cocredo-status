@@ -4,14 +4,14 @@
     "url": "https://www.cocredo.co.uk",
     "icon": "https://icons.duckduckgo.com/ip3/www.cocredo.co.uk.ico",
     "slug": "cocredo",
-    "status": "up",
+    "status": "down",
     "uptime": "99.63%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.60%",
+    "uptimeDay": "99.31%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.58%",
     "uptimeYear": "99.63%",
     "time": 2031,
-    "timeDay": 1616,
+    "timeDay": 0,
     "timeWeek": 2091,
     "timeMonth": 1956,
     "timeYear": 2031,
@@ -19,7 +19,8 @@
       "2026-03-01": 51,
       "2026-06-05": 518,
       "2026-06-04": 513,
-      "2026-09-27": 176
+      "2026-09-27": 176,
+      "2026-10-16": 10
     }
   },
   {
@@ -28,15 +29,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.quickcreditreports.co.uk.ico",
     "slug": "qcr",
     "status": "up",
-    "uptime": "99.65%",
+    "uptime": "99.66%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.65%",
+    "uptimeYear": "99.66%",
     "time": 1735,
-    "timeDay": 1471,
-    "timeWeek": 2208,
-    "timeMonth": 1857,
+    "timeDay": 1689,
+    "timeWeek": 2144,
+    "timeMonth": 1851,
     "timeYear": 1735,
     "dailyMinutesDown": {
       "2026-06-05": 518,
@@ -50,14 +51,14 @@
     "url": "https://apigw.cocredo.com/v1/hello",
     "icon": "https://icons.duckduckgo.com/ip3/apigw.cocredo.com.ico",
     "slug": "cocredoapi",
-    "status": "up",
+    "status": "down",
     "uptime": "99.64%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.61%",
+    "uptimeDay": "99.65%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.60%",
     "uptimeYear": "99.64%",
     "time": 1786,
-    "timeDay": 1582,
+    "timeDay": 0,
     "timeWeek": 1868,
     "timeMonth": 1894,
     "timeYear": 1786,
@@ -65,7 +66,8 @@
       "2026-03-01": 51,
       "2026-06-05": 518,
       "2026-06-04": 513,
-      "2026-09-27": 171
+      "2026-09-27": 171,
+      "2026-10-16": 5
     }
   },
   {
@@ -73,14 +75,14 @@
     "url": "https://xmlgw.cocredo.co.uk/v2-0/docs/",
     "icon": "https://icons.duckduckgo.com/ip3/xmlgw.cocredo.co.uk.ico",
     "slug": "cocredoxml",
-    "status": "up",
+    "status": "down",
     "uptime": "99.64%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.62%",
     "uptimeYear": "99.64%",
     "time": 1936,
-    "timeDay": 1623,
+    "timeDay": 0,
     "timeWeek": 2007,
     "timeMonth": 1934,
     "timeYear": 1936,
@@ -88,7 +90,8 @@
       "2026-03-01": 50,
       "2026-06-05": 518,
       "2026-06-04": 513,
-      "2026-09-27": 167
+      "2026-09-27": 167,
+      "2026-10-16": 0
     }
   }
 ]
