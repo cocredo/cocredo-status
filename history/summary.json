@@ -4,12 +4,12 @@
     "url": "https://www.cocredo.co.uk",
     "icon": "https://icons.duckduckgo.com/ip3/www.cocredo.co.uk.ico",
     "slug": "cocredo",
-    "status": "up",
-    "uptime": "99.56%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "98.80%",
-    "uptimeYear": "99.56%",
+    "status": "down",
+    "uptime": "99.60%",
+    "uptimeDay": "99.31%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.20%",
+    "uptimeYear": "99.60%",
     "time": 2026,
     "timeDay": 1739,
     "timeWeek": 1989,
@@ -21,7 +21,7 @@
       "2026-06-04": 513,
       "2026-09-27": 176,
       "2026-10-28": 340,
-      "2026-11-01": 187
+      "2026-11-24": 10
     }
   },
   {
@@ -52,12 +52,12 @@
     "url": "https://apigw.cocredo.com/v1/hello",
     "icon": "https://icons.duckduckgo.com/ip3/apigw.cocredo.com.ico",
     "slug": "cocredoapi",
-    "status": "up",
-    "uptime": "99.56%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "98.82%",
-    "uptimeYear": "99.56%",
+    "status": "down",
+    "uptime": "99.60%",
+    "uptimeDay": "99.65%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.22%",
+    "uptimeYear": "99.60%",
     "time": 1801,
     "timeDay": 1912,
     "timeWeek": 1845,
@@ -69,7 +69,7 @@
       "2026-06-04": 513,
       "2026-09-27": 171,
       "2026-10-28": 335,
-      "2026-11-01": 182
+      "2026-11-24": 5
     }
   },
   {
@@ -77,12 +77,12 @@
     "url": "https://xmlgw.cocredo.co.uk/v2-0/docs/",
     "icon": "https://icons.duckduckgo.com/ip3/xmlgw.cocredo.co.uk.ico",
     "slug": "cocredoxml",
-    "status": "up",
-    "uptime": "99.56%",
-    "uptimeDay": "100.00%",
+    "status": "down",
+    "uptime": "99.61%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "98.84%",
-    "uptimeYear": "99.56%",
+    "uptimeMonth": "99.25%",
+    "uptimeYear": "99.61%",
     "time": 1950,
     "timeDay": 1957,
     "timeWeek": 2158,
@@ -94,7 +94,7 @@
       "2026-06-04": 513,
       "2026-09-27": 167,
       "2026-10-28": 330,
-      "2026-11-01": 177
+      "2026-11-24": 0
     }
   }
 ]
